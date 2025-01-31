@@ -1,0 +1,144 @@
+{
+    "total_quizzes": 14,
+    "average_accuracy": 72.21428571428571,
+    "topic_performance": {
+        "Body Fluids and Circulation": {
+            "attempts": 3,
+            "total_accuracy": 217.0,
+            "scores": [
+                108,
+                116,
+                36
+            ],
+            "average_accuracy": 72.33333333333333,
+            "average_score": 86.66666666666667
+        },
+        "Body Fluids and Circulation ": {
+            "attempts": 3,
+            "total_accuracy": 240.0,
+            "scores": [
+                92,
+                36,
+                36
+            ],
+            "average_accuracy": 80.0,
+            "average_score": 54.666666666666664
+        },
+        "Human Reproduction": {
+            "attempts": 1,
+            "total_accuracy": 38.0,
+            "scores": [
+                40
+            ],
+            "average_accuracy": 38.0,
+            "average_score": 40.0
+        },
+        "principles of inheritance and variation ": {
+            "attempts": 1,
+            "total_accuracy": 30.0,
+            "scores": [
+                12
+            ],
+            "average_accuracy": 30.0,
+            "average_score": 12.0
+        },
+        "microbes in human welfare": {
+            "attempts": 1,
+            "total_accuracy": 100.0,
+            "scores": [
+                76
+            ],
+            "average_accuracy": 100.0,
+            "average_score": 76.0
+        },
+        "reproductive health ": {
+            "attempts": 2,
+            "total_accuracy": 184.0,
+            "scores": [
+                40,
+                64
+            ],
+            "average_accuracy": 92.0,
+            "average_score": 52.0
+        },
+        "human health and disease ": {
+            "attempts": 1,
+            "total_accuracy": 93.0,
+            "scores": [
+                112
+            ],
+            "average_accuracy": 93.0,
+            "average_score": 112.0
+        },
+        "Reproductive Health": {
+            "attempts": 1,
+            "total_accuracy": 43.0,
+            "scores": [
+                52
+            ],
+            "average_accuracy": 43.0,
+            "average_score": 52.0
+        },
+        "Respiration and Gas Exchange": {
+            "attempts": 1,
+            "total_accuracy": 66.0,
+            "scores": [
+                24
+            ],
+            "average_accuracy": 66.0,
+            "average_score": 24.0
+        }
+    },
+    "strength_areas": [],
+    "weak_areas": [],
+    "improvement_trends": {
+        "accuracy_trend": [
+            66.0,
+            43.0,
+            84.0,
+            93.0,
+            100.0,
+            100.0,
+            30.0,
+            50.0,
+            38.0,
+            31.0,
+            90.0,
+            96.0,
+            100.0,
+            90.0
+        ],
+        "score_trend": [
+            24,
+            52,
+            64,
+            112,
+            40,
+            76,
+            12,
+            36,
+            40,
+            36,
+            36,
+            116,
+            92,
+            108
+        ],
+        "speed_trend": [
+            90.0,
+            100.0,
+            86.0,
+            100.0,
+            100.0,
+            95.0,
+            100.0,
+            78.0,
+            86.0,
+            96.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0
+        ]
+    }
+}
